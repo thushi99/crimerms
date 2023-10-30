@@ -1,0 +1,6 @@
+caseID
+evidenceName
+fingerprint
+recoveredFrom
+assignedOfficer
+evidencefile
